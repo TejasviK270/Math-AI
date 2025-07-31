@@ -32,5 +32,5 @@ def smooth_image(image_path):
 
     plt.show()
 
-image_path = r"C:\Users\Jiya\Downloads\blackwhite.jpg" 
+image_path = r"C:\Users\Jiya\Downloads\blackwhite.jpeg" 
 smooth_image(image_path)
