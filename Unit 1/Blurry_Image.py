@@ -1,5 +1,6 @@
 import streamlit as st
-import scipy.ndimage import gaussian_filter
+import scipy.ndimage 
+import gaussian_filter
 import numpy as np
 import matplotlib.pyplot as plt
 
