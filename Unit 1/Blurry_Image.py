@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2
+import scipy.ndimage import gaussian_filter
 import numpy as np
 import matplotlib.pyplot as plt
 
