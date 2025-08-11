@@ -1,4 +1,4 @@
-from google.colab import files
+import streamlit as st
 uploaded = files.upload()
 import cv2
 import numpy as np
